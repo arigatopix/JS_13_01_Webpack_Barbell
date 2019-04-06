@@ -1,0 +1,4 @@
+ตอน upload จะอัพแค่
+  index.html
+  assets
+  build
